@@ -14,3 +14,11 @@ Data Warehouse &amp; Data Mining 2021
 4. 623021045-9 นายชณะชัย อิสระกูล SC-SI
 
 5. 623021048-3 นางสาวทอฝัน พงษ์พิเดช SC-SI
+
+
+# สารบัญ Github
+
+* บทที่ 2 [Data101(Chapter2)](https://github.com/ParichayaHongthongkum/DWDM21/blob/main/Data101_(Chapter2).ipynb)
+
+* บทที่ 2 [Data102(Chapter2)](https://github.com/ParichayaHongthongkum/DWDM21/blob/main/Data102(Chapter2).ipynb)
+
