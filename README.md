@@ -16,6 +16,15 @@ Data Warehouse &amp; Data Mining 2021
 5. 623021048-3 นางสาวทอฝัน พงษ์พิเดช SC-SI
 
 
+# สารบัญเนื้อหา
+
+* บทที่ 1 
+
+* บทที่ 2
+
+* บทที่ 3
+
+
 # สารบัญ Github
 
 * บทที่ 2 [Data101(Chapter2)](https://github.com/ParichayaHongthongkum/DWDM21/blob/main/Data101_(Chapter2).ipynb)
