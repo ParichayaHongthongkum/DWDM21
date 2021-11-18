@@ -125,11 +125,37 @@ Data Warehouse &amp; Data Mining 2021
   
 
 * บทที่ 8 [Chap8_Clustering](https://github.com/ParichayaHongthongkum/DWDM21/blob/main/Chap8_Clustering.ipynb)
-  * 
+  * K-means
+  * Explore data
+  * Clustering
+  * Example Application (Color Quantization)
+  * นับจำนวนสี
+  * จัดกลุ่มสีให้เหลือ 16 สี
+  * แปลงข้อมูลให้อยู่ในรูป row-column
+  * ใช้ centroid เป็นตัวแทนของสี
+  * Hierachical Clustering
+  * Clustering Evaluation
+  
 
 * Data Visualization [Data_Visualization](https://github.com/ParichayaHongthongkum/DWDM21/blob/main/Data_Visualization.ipynb)
+ * ทำงานกับข้อมูลลักษณะ ตาราง
+ * เชื่อม google drive
+ * จัดการไฟล์และ path
+ * Visualization
+ * Scatter plot
+ * Histogram ดูความถี่ของข้อมูล
+
 
 * Distance Numpy [Distance_Numpy](https://github.com/ParichayaHongthongkum/DWDM21/blob/main/Distance_Numpy.ipynb)
+ * Numpy Array
+ * matrix transpose
+ * สร้าง matrix เริ่มต้น (zeros,ones)
+ * สร้าง matrix random
+ * matrix properties
+ * Indexing & Slicing
+ * Useful functions
+ * วนลูปเอง
+ * Quiz กลุ่ม
 
 * สอบมิดเทอม [MiniExam](https://github.com/ParichayaHongthongkum/DWDM21/blob/main/MiniExam.ipynb)
 
