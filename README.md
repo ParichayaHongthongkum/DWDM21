@@ -32,6 +32,48 @@ Data Warehouse &amp; Data Mining 2021
   * ลักษณะสำคัญของข้อมูล
 
 * บทที่ 3
+  * Data Cleaning คืออะไร
+  *  Data Integration คืออะไร
+  * Data Reduction and Tranformation คืออะไร
+  * Dimensionality Reduction คืออะไร
+ 
+* บทที่ 4 Data Warehousing and On-line Anaalytical Processing
+  * Data Warehousing คืออะไร
+  * OLTP & OLAP
+  * ทำไมถึงต้องแยก Data Warehousing
+  * โมเดล ทั้ง 3 แบบของ Data Warehousing
+  * Meta Data
+  * การสร้างแบบจำลองแนวคิดของ Data Warehousing ว่ามีแบบไหนบ้าง แต่ละแบบเป็นอย่างไร
+  * ลักษณะข้อมูลในหลายมิติเป็นอย่างไร
+  * การใช้ data warehouse ทั้งหมด 3 ประเภท
+
+* บทที่ 5 Data Cube Technology
+  * ความหมาย
+  * Besic Concepts
+  * Efficient Pattern Mining Methods
+
+* บทที่ 6 Mining Frequent Patterns, Association and Correlations:Basic Concepts and Methods
+  * Basic Concepts
+  * Patterns หมายถึงอะไร ทำไมมันถึงสำคัญ
+  * ตัวอย่าง K-Itemsets
+  * การหาค่าต่าง ๆ ของ K-Itemsets
+  * The Apriori Algorihm
+  * ตัวอย่าง The Apriori Algorihm
+
+* บทที่ 7 Advanced Frequent Pattern Minning
+
+* บทที่ 8 Classification:Basic Concepts
+  * ลักษณะการสร้างโมเดลแบบมีผู้สอน
+  * ลักษณะการสร้างโมเดลแบบไม่มีผู้สอน
+  * การทำนายปัญหา ระหว่าง Classification กับ การใช้ ทำนายตัวเลข
+  * การสร้างโมเดลแบบจำลอง
+  * Decision Tree ต้นไม้ตัดสินใจ
+  * หลักการสร้างตาราง
+  * ตัวอย่างในการหาค่าต่าง ๆ
+  * Gini Index
+  * การหาค่า Gini
+  * Naive Bayes Classfier
+  * Linear Regreesion
 
 
 # สารบัญ Github
