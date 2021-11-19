@@ -31,7 +31,7 @@ Data Warehouse &amp; Data Mining 2021
   * มาตราของข้อมูล
   * ลักษณะสำคัญของข้อมูล
 
-* บทที่ 3 Data Preprocessing
+* บทที่ 3 [Data Preprocessing](https://github.com/ParichayaHongthongkum/DWDM21/blob/main/Data%20Preprocessing.pdf)
   * Data Cleaning คืออะไร
   *  Data Integration คืออะไร
   * Data Reduction and Tranformation คืออะไร
