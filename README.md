@@ -31,13 +31,13 @@ Data Warehouse &amp; Data Mining 2021
   * มาตราของข้อมูล
   * ลักษณะสำคัญของข้อมูล
 
-* บทที่ 3
+* บทที่ 3 Data Preprocessing
   * Data Cleaning คืออะไร
   *  Data Integration คืออะไร
   * Data Reduction and Tranformation คืออะไร
   * Dimensionality Reduction คืออะไร
  
-* บทที่ 4 Data Warehousing and On-line Anaalytical Processing
+* บทที่ 4 [Data Warehousing and On-line Anaalytical Processing](https://github.com/ParichayaHongthongkum/DWDM21/blob/main/Data%20Warehousing%20and%20On-line%20Anaalytical%20Processing.pdf)
   * Data Warehousing คืออะไร
   * OLTP & OLAP
   * ทำไมถึงต้องแยก Data Warehousing
@@ -47,12 +47,12 @@ Data Warehouse &amp; Data Mining 2021
   * ลักษณะข้อมูลในหลายมิติเป็นอย่างไร
   * การใช้ data warehouse ทั้งหมด 3 ประเภท
 
-* บทที่ 5 Data Cube Technology
+* บทที่ 5 [Data Cube Technology](https://github.com/ParichayaHongthongkum/DWDM21/blob/main/Data%20Cube%20Technology.pdf)
   * ความหมาย
   * Besic Concepts
   * Efficient Pattern Mining Methods
 
-* บทที่ 6 Mining Frequent Patterns, Association and Correlations:Basic Concepts and Methods
+* บทที่ 6 [Mining Frequent Patterns, Association and Correlations:Basic Concepts and Methods](https://github.com/ParichayaHongthongkum/DWDM21/blob/main/Mining%20Frequent%20Patterns%2C%20Association%20and%20CorrelationsBasic%20Concepts%20and%20Methods.pdf)
   * Basic Concepts
   * Patterns หมายถึงอะไร ทำไมมันถึงสำคัญ
   * ตัวอย่าง K-Itemsets
@@ -60,9 +60,9 @@ Data Warehouse &amp; Data Mining 2021
   * The Apriori Algorihm
   * ตัวอย่าง The Apriori Algorihm
 
-* บทที่ 7 Advanced Frequent Pattern Minning
+* บทที่ 7 [Advanced Frequent Pattern Minning](https://github.com/ParichayaHongthongkum/DWDM21/blob/main/Advanced%20Frequent%20Pattern%20Minning.pdf)
 
-* บทที่ 8 Classification:Basic Concepts
+* บทที่ 8 [Classification:Basic Concepts](https://github.com/ParichayaHongthongkum/DWDM21/blob/main/ClassificationBasic%20Concepts.pdf)
   * ลักษณะการสร้างโมเดลแบบมีผู้สอน
   * ลักษณะการสร้างโมเดลแบบไม่มีผู้สอน
   * การทำนายปัญหา ระหว่าง Classification กับ การใช้ ทำนายตัวเลข
