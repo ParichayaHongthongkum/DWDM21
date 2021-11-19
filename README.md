@@ -212,5 +212,5 @@ Data Warehouse &amp; Data Mining 2021
 
 * โปรเจค [Project_for_Group](https://github.com/ParichayaHongthongkum/DWDM21/blob/main/Project_for_Group.ipynb)
 
-
+* สไลด์โปรเจค [Present data warehouse and data minning](https://github.com/ParichayaHongthongkum/DWDM21/blob/main/Present%20%20data%20warehouse%20and%20data%20minning.pdf)
 
